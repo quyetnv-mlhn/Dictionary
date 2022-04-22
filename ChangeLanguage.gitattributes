@@ -1,2 +1,3 @@
 *.html linguist-detectable=false
+*.shell linguist-detectable=false
 *.java linguist-detectable=true
